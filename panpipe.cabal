@@ -23,7 +23,7 @@ library
   build-depends:       base         >=4.7  && <4.10
                      , unix         >=2.7  && <2.8
                      , process      >=1.2  && <1.7
-                     , pandoc       >=1.17 && <1.18
+                     , pandoc       >=1.17 && <1.20
                      , pandoc-types
                      , temporary
 
